@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This GitHub repository contains the source code for a web page developed using HTML, CSS, Bootstrap, and ReactJS. The objective of the project is to replicate the design provided in the Figma link and create a fully responsive webpage for both mobile and desktop devices. The design link can be accessed [here](https://www.figma.com/file/392G67iWd8t6WAWy6wDMPt/Basic-Responsiveness-Task?type=design&node-id=1%3A4235&mode=design&t=unn2U87AUQCZNfKR-1).
+This GitHub repository contains the source code for a web page developed using HTML, CSS, JavaScript and ReactJS. The objective of the project is to replicate the design provided in the Figma link and create a fully responsive webpage for both mobile and desktop devices. The design link can be accessed [here](https://www.figma.com/file/392G67iWd8t6WAWy6wDMPt/Basic-Responsiveness-Task?type=design&node-id=1%3A4235&mode=design&t=unn2U87AUQCZNfKR-1).
 
 ## Live Demo
 
